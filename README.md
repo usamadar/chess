@@ -2,6 +2,8 @@
 
 A simple chess game that runs directly in the browser without requiring any server or installation. Built with vanilla JavaScript, HTML, and CSS.
 
+🎮 **[Play the game here!](https://usamadar.github.io/chess/)**
+
 ![Chess Game Screenshot](screenshot.png) *(You'll need to add a screenshot of your game)*
 
 ## Features
@@ -18,17 +20,13 @@ A simple chess game that runs directly in the browser without requiring any serv
 
 ## How to Play
 
-1. **Local Play:**
+1. **Play Online:**
+   Visit [https://usamadar.github.io/chess/](https://usamadar.github.io/chess/) to play directly in your browser!
+
+2. **Play Locally:**
    - Download or clone this repository
    - Open `index.html` in your web browser
    - That's it! No server or installation needed
-
-2. **Online Play:**
-   Unfortunately, you can't play directly from GitHub as raw GitHub URLs don't execute JavaScript. However, you have several options to play online:
-
-   - Deploy to [GitHub Pages](https://pages.github.com/) (free)
-   - Deploy to [Netlify](https://www.netlify.com/) (free)
-   - Deploy to [Vercel](https://vercel.com/) (free)
 
 ## Game Controls
 
